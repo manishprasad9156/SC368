@@ -1,0 +1,13 @@
+$background : black;
+
+body{
+    background-color: $ba;
+
+    p, nav{
+        color: white;
+
+        a{
+            text-decoration: none;
+        }
+    }
+}
